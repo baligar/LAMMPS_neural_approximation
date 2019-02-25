@@ -1,0 +1,1 @@
+# LAMMPS_neural_approximation
